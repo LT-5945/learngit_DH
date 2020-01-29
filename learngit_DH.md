@@ -93,3 +93,7 @@ The key's randomart image is:
 5. 在本地的 Git CMD窗口里输入：` git remote add origin git@github.com:黛珩的用户名/黛珩的文件夹名.git`（如果不清楚可以关注上一步点击后的网址，.com之后就是我们需要加入到上述命令中的），这样我们就关联好了。
 
 ## 六、 将本地仓库内容上传到git
+1. 在Git CMD中输入：`git push --set-upstream origin master`，回车后输入yes再回车。
+2. 欣赏滚动的屏幕。
+3. 刷新之前GitHub仓库的网页，看到自己美妙的文件躺在那里。  
+ok现在我要把这份文件上传了，之前已经传过一次了。剩余的知识包括如何下载本文件和创建新分支。这些稍后我会提交上去。这次先把该仓库网址和本文件通过微信发过去吧。
